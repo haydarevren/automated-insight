@@ -3,9 +3,13 @@ How much of the data processing can be automated? Is it possible to manage all a
 This project aims to guide enterprise stakeholders in their future business decisions. The users can upload several datasets and choose the target subjects, target variables, and requested prediction interval.
 
 It will bring the following for its users:
+
 •	the predictions for the target subjects and variables,
+
 •	data insights related to target subjects and target variables,
+
 •	a combined dataset that all missing entries are imputed.
+
 For example, a shoe store manager can know how much each brand would sell next two months. He can adjust his stocks accordingly.
 
 I will use the GDP and inflation forecast example to demonstrate how automated data analysis can be done and what values it will bring to the users.
