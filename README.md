@@ -12,6 +12,8 @@ It will bring the following for its users:
 
 For example, a shoe store manager can know how much each brand would sell next two months. He can adjust his stocks accordingly.
 
+For the best user experience, it is deployed as a webapp on heroku using Flask. One can simply go to https://automated-insight-capstone.herokuapp.com/ to give it a try.
+
 I will use the GDP and inflation forecast example to demonstrate how automated data analysis can be done and what values it will bring to the users.
 
 Data: 
