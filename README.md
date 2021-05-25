@@ -32,6 +32,8 @@ I have used 2019 dataset from across 13 publicly available sources. (15312 obser
 12.	Economist intelligence unit (https://country.eiu.com/united-states)
 13.	Quality of government (https://www.gu.se/en/quality-government/qog-data)
 
+Link to description of variables: https://github.com/haydarevren/automated-insight-capstone/blob/main/data/features_dictionary.csv
+
 Model:
 
 The users will upload the datasets and select their target subjects and variables to predict. They will also choose the prediction interval in the future. The example is a panel (longitudinal) data set. It is multi-dimensional data involving measurements over time. Time-series and cross-sectional data can be considered special cases of panel data in one dimension only. I pick this type of dataset since it is the most common type of data we see in business data analysis. The aim is to both automate all steps and find fast and reliable predictions.
