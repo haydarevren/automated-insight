@@ -12,7 +12,7 @@ It will bring the following for its users:
 
 For example, if a shoe store manager knows how many units each brand would sell for the next two months, s(he) can adjust his/her stock accordingly.
 
-For the best user experience, it is deployed as a webapp on heroku. One can simply go to https://automated-insight-demo.herokuapp.com/ to demo it for example dataset.
+For the best user experience, it is deployed as a webapp on heroku. One can simply go to https://automated-insight-capstone.herokuapp.com/ to demo it for example dataset.
 
 I will use the GDP and inflation forecast example to demonstrate how automated data analysis can be done and what values it will bring to the users.
 
